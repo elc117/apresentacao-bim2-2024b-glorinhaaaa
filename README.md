@@ -2,7 +2,7 @@
 # PolygonBatch Interface 
 
 ## Descrição
-
+![4a445085-d9b3-486b-b7e5-e8c2dc2d264d](https://github.com/user-attachments/assets/c9b6a571-d8ec-4cdf-97fe-be468645213d)
 O código fornecido define a interface PolygonBatch que estende a interface Batch. A interface PolygonBatch é utilizada para fornecer métodos específicos para renderização de polígonos, permitindo desenhar regiões de polígonos com transformações como escala e rotação. Ela é projetada para ser implementada por classes que irão lidar com a renderização de polígonos em um ambiente gráfico.
 
 ## Conceitos de Programação: Herança e Polimorfismo
